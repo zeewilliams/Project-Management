@@ -1,6 +1,6 @@
 # 🗂️ Project Scope, Gantt Timeline & Recovery Within $105K IT Budget
 
-![null](gantt-chart.png) <!-- Replace with actual image path -->
+![null](PMP%20Image.png) <!-- Replace with actual image path -->
 
 ---
 
