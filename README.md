@@ -94,9 +94,9 @@ The 75-day burndown chart shows a delay trend that began as early as day 5. By d
 
 | Description               | Screenshot Placeholder            |
 |---------------------------|-----------------------------------|
-| Gantt Chart               | ![null](gantt-chart.png)          |
-| Earned Value Table        | ![null](earned-value.png)         |
-| Burndown Chart            | ![null](burndown-chart.png)       |
+| Gantt Chart               | ![null](Gantt%20Chart.pdf)          |
+| Earned Value Table        | ![null](Report%20Summary%20Earned%20Value%20Analysis.pdf)         |
+| Burndown Chart            | ![null](Burndown-Chart.png)       |
 
 ---
 
